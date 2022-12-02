@@ -6,11 +6,11 @@
 
 Run the following commands in the root directory.
 
-```bash
-run once
-npm i --save-dev html-webpack-plugin 
+```bash<br />
+run once<br />
+npm i --save-dev html-webpack-plugin <br />
 
-next
-npm install
-npm run build
-npm run start
+next<br />
+npm install<br />
+npm run build<br />
+npm run start<br />
